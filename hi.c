@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    priintf("hi!\n");
+    priintf("hi pig!\n");
     return 0;
 }
